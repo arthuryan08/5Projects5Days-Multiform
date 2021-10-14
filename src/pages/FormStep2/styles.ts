@@ -1,6 +1,8 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
+  padding-bottom: 20px;
+
   p {
     font-size: 13px;
     color: #B8B8D4;
